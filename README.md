@@ -1,1 +1,1 @@
-Initial commit for feature-sort-integers
+Initial commit for feature-sort-strings
