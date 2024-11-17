@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class SortIntegers {
 
     public static void main(String[] args) {
         // Calling feature 1: sortIntegers
