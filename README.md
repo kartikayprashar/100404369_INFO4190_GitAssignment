@@ -16,8 +16,8 @@
 ### 1. Sort Integers
 
 - <p><b>Branch:</b> feature-sort-integers</p>
-- <p><b>Description:</b> This feature implements a function to sort an array of integers in ascending order.</p>p
-- <p><b>Usage:</b> Run the <b>SortIntegers.java file</b>, which sorts an example array of integers and prints the sorted result to the console.</p>p
+- <p><b>Description:</b> This feature implements a function to sort an array of integers in ascending order.</p>
+- <p><b>Usage:</b> Run the <b>SortIntegers.java file</b>, which sorts an example array of integers and prints the sorted result to the console.</p>
 - <p><b>Modification:</b> Modify the method call named <b>sortIntegers</b> by changing the value of numbers within the curley braces in the main method as shown below by substituting numbers with the variables int1, int2, int3, int4 and int5.</p>
 
 ``` import java.util.Arrays;
