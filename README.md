@@ -1,6 +1,6 @@
 # 100404369 INFO 4190 Git Assignment
 
-<p>This project shows the sorting of both integers and strings. For example, this application enables users to modify both the numbers and strings array so the function may return the alphabetically sorted array. How a user may use this project is also shown.</p>
+<p>This project shows the sorting of both integers and strings. For example, this application enables users to modify both the numbers and strings array so the function may return the ascending or alphabetically sorted array. How a user may use this project is also shown.</p>
 
 ***
 
