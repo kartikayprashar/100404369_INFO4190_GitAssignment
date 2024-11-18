@@ -1,3 +1,4 @@
+// Added for demo purposes
 import java.util.Arrays;
 
 public class SortStrings {
