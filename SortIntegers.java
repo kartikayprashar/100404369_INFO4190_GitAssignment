@@ -1,4 +1,4 @@
-// Added for demo purposes
+// Changed for demo purposes
 import java.util.Arrays;
 
 public class SortIntegers {
