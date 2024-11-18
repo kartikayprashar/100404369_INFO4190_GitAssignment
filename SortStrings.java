@@ -1,10 +1,10 @@
-// Added for demo purpose
+// Changed for demo purpose
 import java.util.Arrays;
 
 public class SortStrings {
     public static void main(String[] args) {
         // Calling feature 2: sortStrings
-        sortStrings(new String[] {"cherry", "banana", "apple", "dradon fruit", "elderberry"});
+        sortStrings(new String[] {"kiwi", "pear", "apple", "dragon fruit", "elderberry"});
     }
 
     public static void sortStrings(String[] strings) {
