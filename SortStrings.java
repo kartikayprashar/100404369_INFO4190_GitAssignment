@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class SortStrings {
     public static void main(String[] args) {
         // Calling feature 2: sortStrings
-        sortStrings(new String[] {"kiwi", "pear", "apple", "dragon fruit", "elderberry"});
+        sortStrings(new String[] {"cherry", "banana", "apple", "dragon fruit", "elderberry"});
     }
 
     public static void sortStrings(String[] strings) {
