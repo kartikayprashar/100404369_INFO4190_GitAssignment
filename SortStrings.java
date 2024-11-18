@@ -1,4 +1,4 @@
-// Changed for demo purpose
+// Changed second time for demo purpose
 import java.util.Arrays;
 
 public class SortStrings {
